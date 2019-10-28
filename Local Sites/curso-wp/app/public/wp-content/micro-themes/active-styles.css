@@ -1,0 +1,35 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*( Desktop & Tablet )*/
+@media (min-width: 768px) and (max-width: 979px) {
+
+	/*= General =================== */
+
+	/** General >> Clear heading 1 _2 **/
+	.clear h1 {
+	font-family: futura  !important;
+	color: rgb(0, 0, 0) !important;
+	font-size: 50px !important;
+	text-align: justify !important;
+	text-indent: 48px !important;
+	word-wrap: break-word !important;
+}
+
+
+}
+
+
+/*( Tablet & Phone )*/
+@media (max-width: 767px) {
+
+	/*= General =================== */
+
+	/** General >> Clear paragraph **/
+	.clear p {
+	font-family: futura pt !important;
+}
+
+
+}
+
