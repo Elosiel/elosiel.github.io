@@ -1,3 +1,149 @@
-.my-4 {
-    background-color: red;
-}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #333;
+  }
+  
+  header {
+    height: 100vh;
+    background-image: linear-gradient(to top, rgba(55, 199, 204, 0.701), rgba(217, 228, 120, 0.385), rgba(0, 0, 0, 0.692)), url(https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?cs=srgb&dl=apple-desk-imac-39284.jpg&fm=jpg);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+  }
+  
+  .logo-box {
+    position: absolute;
+    left: 70px;
+    top: 30px;
+  }
+  
+  .logo-box p {
+    color: white;
+    font-size: 20px;
+  }
+  
+  .logo {
+    height: 60px;
+  }
+  
+  #navbar {
+    background-color: black;
+    color: white;
+  }
+  
+  nav {
+    display: inline-block;
+    position: absolute;
+    top: 30px;
+    left: 60%;
+    
+  }
+  
+  nav li {
+    float: right;
+    list-style-type: none;
+    padding: 10px 70px;
+  }
+  
+  nav li a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+  
+  nav li a:hover {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    background: linear-gradient(to bottom, rgb(21, 216, 250), rgb(21, 216, 250));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .text-box {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .heading-primary {
+    color: #fff;
+    text-transform: uppercase;
+  }
+  
+  .heading-primary-main {
+    display: block;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 30px;
+    text-align: center;
+    background: linear-gradient(to bottom, white, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .heading-primary-sub {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 10px;
+    background: linear-gradient(to bottom, black, #fff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  #about {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(to bottom, #999, rgb(228, 224, 224), #fff, #fff);
+  }
+  
+  #contact {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg?cs=srgb&dl=antique-black-communication-821754.jpg&fm=jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .text-box-about {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .heading-primary-main-about {
+    display: block;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 40px;
+    text-align: center;
+  }
+  
+  .heading-primary-sub-about {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 7px;
+    text-align: center;
+  }
+  
+  nav {
+    border-bottom: 1px solid rgb(170, 170, 170);
+  }
+  
