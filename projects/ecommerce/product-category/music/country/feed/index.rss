@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Country &#8211; W8 Wholesale</title>
+	<atom:link href="http://ecommerce.local/product-category/music/country/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ecommerce.local</link>
+	<description></description>
+	<lastBuildDate>Thu, 07 Nov 2019 06:18:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+
+<image>
+	<url>http://ecommerce.local/wp-content/uploads/2019/11/cropped-ARMOND-32x32.png</url>
+	<title>Country &#8211; W8 Wholesale</title>
+	<link>http://ecommerce.local</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>World Greatest</title>
+		<link>http://ecommerce.local/product/world-greatest/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=world-greatest</link>
+				<comments>http://ecommerce.local/product/world-greatest/#respond</comments>
+				<pubDate>Thu, 07 Nov 2019 06:18:26 +0000</pubDate>
+		<dc:creator><![CDATA[losi]]></dc:creator>
+		
+		<guid isPermaLink="false">http://ecommerce.local/?post_type=product&#038;p=134</guid>
+				<description><![CDATA[Worlds Greatest]]></description>
+								<content:encoded><![CDATA[Worlds Greatest]]></content:encoded>
+							<wfw:commentRss>http://ecommerce.local/product/world-greatest/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The Best of Country Music</title>
+		<link>http://ecommerce.local/product/the-best-of-country-music/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-best-of-country-music</link>
+				<comments>http://ecommerce.local/product/the-best-of-country-music/#respond</comments>
+				<pubDate>Thu, 07 Nov 2019 06:02:22 +0000</pubDate>
+		<dc:creator><![CDATA[losi]]></dc:creator>
+		
+		<guid isPermaLink="false">http://ecommerce.local/?post_type=product&#038;p=128</guid>
+				<description><![CDATA[Best Country Music]]></description>
+								<content:encoded><![CDATA[Best Country Music]]></content:encoded>
+							<wfw:commentRss>http://ecommerce.local/product/the-best-of-country-music/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Willie Nelson</title>
+		<link>http://ecommerce.local/product/willie-nelson/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=willie-nelson</link>
+				<comments>http://ecommerce.local/product/willie-nelson/#respond</comments>
+				<pubDate>Thu, 07 Nov 2019 05:59:52 +0000</pubDate>
+		<dc:creator><![CDATA[losi]]></dc:creator>
+		
+		<guid isPermaLink="false">http://ecommerce.local/?post_type=product&#038;p=127</guid>
+				<description><![CDATA[Taste of Country]]></description>
+								<content:encoded><![CDATA[Taste of Country]]></content:encoded>
+							<wfw:commentRss>http://ecommerce.local/product/willie-nelson/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
