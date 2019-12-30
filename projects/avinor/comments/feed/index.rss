@@ -11,11 +11,11 @@
 	<atom:link href="http://avinor.local/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://avinor.local</link>
 	<description>Avinor - Avícola do Nordeste</description>
-	<lastBuildDate>2019-12-12 09:29:13</lastBuildDate>
+	<lastBuildDate>Sat, 28 Dec 2019 07:51:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 </channel>
 </rss>
